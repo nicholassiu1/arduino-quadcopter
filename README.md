@@ -3,6 +3,6 @@
 
 **work in progress project**
 
-This project will contain my work in modeling and printing the quadcopter frame in PETG. Then adding a flight controller with custom built code. The goal of the project is to maintain a stable hover.
+This project will contain my work in using SolidWorks to model the frame and KiCad to draw the schematic. Then adding a flight controller with custom built code. The goal of the project is to maintain a stable hover.
 
 License : MIT
