@@ -11,4 +11,4 @@ License : MIT
 ![Quadcopter schematic](electronics/schematics/quad.svg)
 
 ## Controller Schematic
-![Quadcopter schematic](electronics/schematics/quad.svg)
+![Quadcopter schematic](electronics/schematics/controller.svg)
